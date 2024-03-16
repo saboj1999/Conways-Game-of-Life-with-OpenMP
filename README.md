@@ -1,4 +1,5 @@
 # Implementing OpenMP in Conway's Game of Life
+- https://github.com/saboj1999/Conways-Game-of-Life-with-OpenMP.git
 
 1. Compile 'hw2.c' with the following command: "gcc -fopenmp hw2.c -o hw2.o"
 2. Run the 'test' script inside of the 'Tests' folder with: "./test"
